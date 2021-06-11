@@ -1,0 +1,6 @@
+[
+  { "name": "Harry Potter", "edad": 30, "city": "London" },
+  { "name": "Don Quixote", "edad": 20, "city": "Madrid" },
+  { "name": "Joan of Arc", "edad": 18, "city": "Paris" },
+  { "name": "Rosa Park", "edad": 17, "city": "Alabama" }
+]
